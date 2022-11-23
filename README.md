@@ -4,7 +4,7 @@
 
 🌱 I am currently studying Software Engineering.<br>
 📚 Learning Web Development.<br>
-🔐 Enthusiast about Information Security.<br>
+🔐 Enthusiast about Cyber Security.<br>
 🤝 Looking for some help to getting my first internship as a programmer!
 
 ### 📊 GitHub Stats:
