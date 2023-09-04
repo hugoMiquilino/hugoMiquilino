@@ -8,7 +8,9 @@
 🤝 Looking for some help to getting my first internship as a programmer!
 
 ### 📊 GitHub Stats:
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=hugoMiquilino&theme=github_dark_dimmed&hide=contribs,prs&hide_border=true)<br>
+-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoMiquilino&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 #### 💻 Tech Stack:
